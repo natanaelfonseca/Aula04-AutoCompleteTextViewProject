@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aula04-AutoCompleteTextView/Aula04-AutoCompleteTextView.iml" filepath="$PROJECT_DIR$/Aula04-AutoCompleteTextView/Aula04-AutoCompleteTextView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula04-AutoCompleteTextViewProject.iml" filepath="$PROJECT_DIR$/Aula04-AutoCompleteTextViewProject.iml" />
+    </modules>
+  </component>
+</project>
+
